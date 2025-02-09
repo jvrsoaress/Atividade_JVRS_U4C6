@@ -175,7 +175,7 @@ void gpio_irq_handler(uint gpio, uint32_t events) {
     // Se ambos os botões estiverem pressionados (nível baixo), limpa o display
     if (gpio_get(BUTTON_A_PIN) == 0 && gpio_get(BUTTON_B_PIN) == 0) {
         ssd1306_fill(&ssd, false);
-        ssd1306_draw_string(&ssd, "Display Limpo", 10, 30);
+        ssd1306_draw_string(&ssd, "", 10, 30); //"Display Limpo"
         ssd1306_send_data(&ssd);
         return;
     }
