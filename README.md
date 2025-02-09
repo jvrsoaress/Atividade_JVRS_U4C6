@@ -3,7 +3,6 @@
 
 ## Objetivo do Projeto
 
-**Objetivo do Projeto**
 
 Este projeto tem como objetivo aplicar os conceitos de comunicação serial (UART e I2C) no microcontrolador RP2040, utilizando a placa BitDogLab. Será desenvolvido um sistema que controla LEDs comuns e endereçáveis WS2812, com acionamento por botões. O projeto incluirá o uso de interrupções e debounce para garantir o controle eficiente dos LEDs e o acionamento preciso dos botões, integrando hardware e software.
 
