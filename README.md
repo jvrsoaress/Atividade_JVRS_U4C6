@@ -75,7 +75,7 @@ ser exibido, também, na matriz 5x5 WS2812.
 
 ## 🎥 Demonstração: 
 
-- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: 
+- Para ver o funcionamento do projeto, acesse o vídeo de demonstração gravado por José Vinicius em: https://youtu.be/FktqQ6QNLEA
 
 ## 💻 Desenvolvedor
  
