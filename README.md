@@ -54,7 +54,6 @@ ser exibido, também, na matriz 5x5 WS2812.
 
 - sh
 - git clone seu repositorio
-- cd semaforo-pico
 
 
 2. **Configurar e compilar o projeto**  
